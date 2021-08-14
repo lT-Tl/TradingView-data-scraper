@@ -33,3 +33,4 @@ You'd use: https://tradingview-data.herokuapp.com/quotes?url=https://www.trading
   git push heroku master
   ```
 New Line
+New Line
