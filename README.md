@@ -32,3 +32,4 @@ You'd use: https://tradingview-data.herokuapp.com/quotes?url=https://www.trading
   git commit -am 'fix'
   git push heroku master
   ```
+New Line
